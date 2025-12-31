@@ -1,4 +1,5 @@
-# Borelli Vamshi – Project & Operations Manager
+# 👋 Borelli Vamshi
+## Project & Operations Manager | Agile | Process Excellence | Automation
 
 📍 Hyderabad, India  
 📧 borellivamshi974@gmail.com  
@@ -6,36 +7,47 @@
 
 ---
 
-## 👤 About Me
-Project & Operations Manager with 5+ years of experience at Amazon, specializing in Quality Control, Process Excellence, Agile delivery, SLA governance, and automation-driven productivity improvements.
+## 🚀 Professional Summary
+Project & Operations Manager with 5+ years of experience at Amazon, leading high-volume quality operations, SLA governance, and process excellence initiatives. Proven track record in productivity optimization, audit quality improvement, automation, and stakeholder management across complex operational environments.
 
 ---
 
-## 📊 Impact Metrics
-- 29% productivity improvement through time-motion studies
-- 99.69% audit quality across cross-functional programs
-- 87% reduction in escalation cycle time using automation
-- <36 hours SLA delivery using percentile-based monitoring
-
-
----
-
-## 🛠 Core Skills
-Project Management, Operations Management, Quality Control, SLA Compliance, Agile, Scrum, Six Sigma, Process Improvement, Continuous Improvement, Automation, Python, SQL, Data Analytics, KPI, OKRs, Stakeholder Management, Risk Management, Performance Governance, SOP, Audit Readiness, Productivity Optimization, Workflow Automation
-
- ## 🧰 Tools & Technologies
--	JIRA
--	Advanced Excel 
--	ETL 
--	Lean Six Sigma 
--	Agile Scrum 
--	SOP Governance 
--	Performance Dashboards
+## 🏆 Career Impact (At a Glance)
+- 📈 Improved productivity by **29%+** through time-motion studies and benchmark recalibration  
+- ✅ Increased audit quality from **98.12% → 99.69%**  
+- ⏱ Achieved SLA delivery under **36 hours** using percentile-based monitoring (P90/P99)  
+- 🤖 Reduced escalation cycle time by **87%** using Python automation  
 
 ---
 
-## 📄 Resume
-👉 [Download My Resume](Updated-Resume.pdf)
+## 🧠 Core Competencies
+- Project & Operations Management  
+- Quality Control & SLA Governance  
+- Agile / Scrum / Process Improvement  
+- Performance Analytics & Automation  
+- Stakeholder & Team Leadership  
+
+---
+
+## 🧰 Tools & Technologies
+JIRA, Python, SQL, Advanced Excel, ETL, Lean Six Sigma, Agile Scrum, SOP Governance, Metadata Audits, Performance Dashboards
+
+---
+
+## 💼 Professional Experience
+### Project & Operations Manager – Amazon (2020–2025)
+- Led multi-project quality control functions across high-volume operations  
+- Designed SOP governance frameworks and performance dashboards  
+- Built automation workflows to eliminate manual escalation bottlenecks  
+- Mentored and developed team members into top-tier performers  
+
+---
+
+## 📊 Key Metrics Delivered
+- Productivity: **22–24 → 34 units/hour**
+- Quality Compliance: **~99% sustained**
+- Escalation TAT: **20 mins → ~3 mins**
+- Talent Progression: **7 team members promoted**
 
 ---
 
@@ -46,7 +58,17 @@ Project Management, Operations Management, Quality Control, SLA Compliance, Agil
 
 ---
 
+## 📄 Resume
+👉 **[Download My Resume](Updated-Resume.pdf)**
+
+---
+
 ## 🌐 Languages
-- Telugu (Native)
-- English (Fluent)
-- Hindi (Fluent)
+- Telugu – Native  
+- English – Fluent  
+- Hindi – Fluent  
+
+---
+
+## 🎯 Interests
+Operational excellence case studies, fitness activities (cricket & badminton), and peer knowledge sharing.
