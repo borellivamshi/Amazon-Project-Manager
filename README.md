@@ -24,15 +24,15 @@ Project & Operations Manager with 5+ years of experience at Amazon, specializing
 Project Management, Operations Management, Quality Control, SLA Compliance, Agile, Scrum, Six Sigma, Process Improvement, Continuous Improvement, Automation, Python, SQL, Data Analytics, KPI, OKRs, Stakeholder Management, Risk Management, Performance Governance, SOP, Audit Readiness, Productivity Optimization, Workflow Automation
 
  ## 🧰 Tools & Technologies
-•	JIRA
-•	Python
-•	SQL
-•	Advanced Excel 
-•	ETL 
-•	Lean Six Sigma 
-•	Agile Scrum 
-•	SOP Governance 
-•	Performance Dashboards
+-	JIRA
+-		Python
+-		SQL
+-	Advanced Excel 
+-	ETL 
+-	Lean Six Sigma 
+-	Agile Scrum 
+-	SOP Governance 
+-	Performance Dashboards
 
 ---
 
