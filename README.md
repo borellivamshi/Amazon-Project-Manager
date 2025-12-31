@@ -11,17 +11,21 @@ Project & Operations Manager with 5+ years of experience at Amazon, specializing
 
 ---
 
-## 🏆 Key Highlights
-- Increased productivity by **29%+** through time-motion studies and performance recalibration
-- Improved audit quality to **99.69%**
-- Achieved SLA delivery under **36 hours** using percentile-based monitoring
-- Built **Python automation** reducing escalation cycle time by **87%**
+## 📊 Impact Metrics
+- 29% productivity improvement through time-motion studies
+- 99.69% audit quality across cross-functional programs
+- 87% reduction in escalation cycle time using automation
+- <36 hours SLA delivery using percentile-based monitoring
+
 
 ---
 
 ## 🛠 Core Skills
 Project Management, Operations Management, Quality Control, SLA Compliance, Agile, Scrum, Six Sigma, Process Improvement, Continuous Improvement, Automation, Python, SQL, Data Analytics, KPI, OKRs, Stakeholder Management, Risk Management, Performance Governance, SOP, Audit Readiness, Productivity Optimization, Workflow Automation
- 
+
+ ## 🧰 Tools & Technologies
+JIRA, Python, SQL, Advanced Excel, ETL, Lean Six Sigma, Agile Scrum, SOP Governance, Metadata Audits, Performance Dashboards
+
 
 ---
 
