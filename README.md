@@ -25,8 +25,6 @@ Project Management, Operations Management, Quality Control, SLA Compliance, Agil
 
  ## 🧰 Tools & Technologies
 -	JIRA
--		Python
--		SQL
 -	Advanced Excel 
 -	ETL 
 -	Lean Six Sigma 
