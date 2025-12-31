@@ -20,11 +20,9 @@ Project & Operations Manager with 5+ years of experience at Amazon, specializing
 ---
 
 ## 🛠 Core Skills
-- Project & Operations Management  
-- Agile / Scrum / Process Governance  
-- Quality Management & SLA Compliance  
-- Data Analytics & Automation (Python, SQL, Excel)  
-- Stakeholder & Team Leadership  
+## 🔑 ATS Keywords
+Project Management, Operations Management, Quality Control, SLA Compliance, Agile, Scrum, Six Sigma, Process Improvement, Continuous Improvement, Automation, Python, SQL, Data Analytics, KPI, OKRs, Stakeholder Management, Risk Management, Performance Governance, SOP, Audit Readiness, Productivity Optimization, Workflow Automation
+ 
 
 ---
 
